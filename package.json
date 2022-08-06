@@ -15,7 +15,7 @@
     "@ckeditor/ckeditor5-image": "^33.0.0",
     "@ckeditor/ckeditor5-link": "^33.0.0",
     "@ckeditor/ckeditor5-list": "^33.0.0",
-    "@ckeditor/ckeditor5-markdown-gfm": "^33.0.0",
+    "@ckeditor/ckeditor5-markdown-gfm": "^35.0.1",
     "@ckeditor/ckeditor5-paragraph": "^33.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^33.0.0",
     "@ckeditor/ckeditor5-upload": "^33.0.0",
